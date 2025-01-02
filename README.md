@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Jasmine Lewis
+***Hi there! 👋 Welcome to my GitHub***
 
+***About Me***
 
-Hi there! I'm a passionate data enthusiast with a strong supply chain management/procurement foundation and a rich background in working on government contracts at Boeing. I have a bachelor's degree in Computer Information Systems and am currently pursuing graduate studies in Analytics, marking an exciting step in my mid-career transition into the dynamic field of data analytics and data science.
+I’m a passionate and driven professional making an exciting mid-career transition into Data Analytics and Data Science. With a rich background in procurement and years of experience working on complex government contracts at Boeing, I bring a unique perspective to the world of data. While I may be new to the field, my experience managing complex projects and navigating intricate systems has equipped me with problem-solving skills, attention to detail, and adaptability that are invaluable in data analytics and science.
 
-With a deep interest in uncovering actionable insights from data, I’m continuously building my skills in data visualization, statistical analysis, and machine learning. I'm also actively exploring tools and programming languages like Python, R, and SQL to solve real-world problems.
+***🎓 Education***
 
-This GitHub serves as a repository of my journey—featuring projects, coursework, and personal experiments in the world of data. I aim to leverage my technical expertise and growing analytical acumen to contribute meaningfully to impactful projects.
+Bachelor's Degree in Computer Information Systems
+Currently pursuing a Master's in Analytics 
 
-Feel free to connect or explore my repositories—I'm always open to collaboration and knowledge-sharing!
+***💡 Why Data Analytics/Science?***
+
+After years of working in tech-adjacent roles, I discovered my enthusiasm for data-driven problem-solving and the incredible impact data can have on decision-making. This revelation inspired me to embark on a journey to upskill and pivot into a field that blends technical expertise, creativity, and innovation.
+
+***🔨 What I’m Working On+++
+
+Enhancing my skills in Python, SQL, R, and visualization tools like Tableau and Power BI
+Building projects focused on exploratory data analysis, predictive modeling, and business intelligence
+Collaborating with peers to solve real-world data challenges
+
+***📈 Future Goals***
+
+Develop expertise in machine learning and AI
+Apply data-driven insights to industries like aerospace, technology, and government
+Contribute meaningfully to open-source projects and share my learnings with the community
+
+***🌟 Connect With Me***
+I’m excited to connect with other data enthusiasts, learners, and professionals. Let’s collaborate and grow together!
