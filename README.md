@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jasmine Lewis
 
 
-Hi there! I'm a passionate data enthusiast with a strong foundation in Computer Information Systems and a rich background in working on government contracts at Boeing. I recently graduated with my bachelor's degree and am currently pursuing graduate studies in Analytics, marking an exciting step in my mid-career transition into the dynamic field of data analytics and data science.
+Hi there! I'm a passionate data enthusiast with a strong supply chain management/procurement foundation and a rich background in working on government contracts at Boeing. I have a bachelor's degree in Computer Information Systems and am currently pursuing graduate studies in Analytics, marking an exciting step in my mid-career transition into the dynamic field of data analytics and data science.
 
 With a deep interest in uncovering actionable insights from data, I’m continuously building my skills in data visualization, statistical analysis, and machine learning. I'm also actively exploring tools and programming languages like Python, R, and SQL to solve real-world problems.
 
