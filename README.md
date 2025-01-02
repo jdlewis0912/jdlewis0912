@@ -10,15 +10,15 @@ After years of working in tech-adjacent roles, I discovered my enthusiasm for da
 
 ***🔨 What I’m Working On***
 
-Enhancing my skills in Python, SQL, R, and visualization tools like Tableau and Power BI
-Building projects focused on exploratory data analysis, predictive modeling, and business intelligence
-Collaborating with peers to solve real-world data challenges
+Enhancing my skills in Python, SQL, R, and visualization tools like Tableau and Power BI.
+Building projects focused on exploratory data analysis, predictive modeling, and business intelligence.
+Collaborating with peers to solve real-world data challenges.
 
 ***📈 Future Goals***
 
-Develop expertise in machine learning and AI
-Apply data-driven insights to industries like aerospace, technology, and government
-Contribute meaningfully to open-source projects and share my learnings with the community
+Develop expertise in machine learning and AI.
+Apply data-driven insights to industries like aerospace, technology, and government.
+Contribute meaningfully to open-source projects and share my learnings with the community.
 
 ***🌟 Connect With Me***
 
