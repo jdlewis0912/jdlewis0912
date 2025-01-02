@@ -6,7 +6,7 @@ I’m a passionate and driven professional making an exciting mid-career transit
 
 ***💡 Why Data Analytics/Science?***
 
-After years of working in tech-adjacent roles, I discovered my enthusiasm for data-driven problem-solving and the incredible impact data can have on decision-making. This revelation inspired me to embark on a journey to upskill and pivot into a field that blends technical expertise, creativity, and innovation.
+After years of working in tech-adjacent roles, I discovered my enthusiasm for data-driven problem-solving and the incredible impact data can have on decision-making. This revelation inspired me to embark on a journey to upskill and pivot into a field that blends technical expertise with my business background, creativity, and innovation.
 
 ***🔨 What I’m Working On***
 
