@@ -8,7 +8,7 @@ I’m a passionate and driven professional making an exciting mid-career transit
 
 After years of working in tech-adjacent roles, I discovered my enthusiasm for data-driven problem-solving and the incredible impact data can have on decision-making. This revelation inspired me to embark on a journey to upskill and pivot into a field that blends technical expertise, creativity, and innovation.
 
-***🔨 What I’m Working On+++
+***🔨 What I’m Working On***
 
 Enhancing my skills in Python, SQL, R, and visualization tools like Tableau and Power BI
 Building projects focused on exploratory data analysis, predictive modeling, and business intelligence
