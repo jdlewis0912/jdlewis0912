@@ -2,7 +2,7 @@
 
 ***About Me***
 
-I’m a passionate and driven professional making an exciting mid-career transition into Data Analytics and Data Science. With a rich background in procurement and years of experience working on government contracts at Boeing, I bring a unique perspective to the world of data. While I may be new to the field, my experience managing complex projects and navigating intricate systems has equipped me with problem-solving skills, attention to detail, and adaptability that are invaluable in this field.
+I’m a passionate and driven professional making an exciting mid-career transition into Data Analytics. With a rich background in procurement and years of experience working on government contracts at Boeing, I bring a unique perspective to the world of data. While I may be new to the field, my experience managing complex projects and navigating intricate systems has equipped me with problem-solving skills, attention to detail, and adaptability which are invaluable in this field.
 
 ***💡 Why Data Analytics/Science?***
 
